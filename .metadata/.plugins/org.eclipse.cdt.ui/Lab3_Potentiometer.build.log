@@ -1,0 +1,10 @@
+13:44:56 **** Incremental Build of configuration Debug for project Lab3_Potentiometer ****
+make -j8 all 
+arm-none-eabi-size   Lab3_Potentiometer.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8396	     20	   1644	  10060	   274c	Lab3_Potentiometer.elf
+Finished building: default.size.stdout
+ 
+
+13:44:56 Build Finished. 0 errors, 0 warnings. (took 244ms)
+
